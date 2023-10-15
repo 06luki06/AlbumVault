@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using iTunesSearch.Library;
 
-namespace Avalonia.MusicStore.Models
+namespace AlbumVault.Models
 {
 	public class Album
 	{

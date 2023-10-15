@@ -2,11 +2,11 @@ using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 
-namespace Avalonia.MusicStore.Views;
+namespace AlbumVault.Views;
 
-public partial class MusicStoreView : UserControl
+public partial class AlbumView : UserControl
 {
-    public MusicStoreView()
+    public AlbumView()
     {
         InitializeComponent();
     }

@@ -1,6 +1,6 @@
 ﻿using ReactiveUI;
 
-namespace Avalonia.MusicStore.ViewModels
+namespace AlbumVault.ViewModels
 {
 	public class ViewModelBase : ReactiveObject
 	{

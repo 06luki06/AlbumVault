@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace Avalonia.MusicStore
+namespace AlbumVault
 {
 	internal class Program
 	{

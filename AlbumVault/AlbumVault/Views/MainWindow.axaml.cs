@@ -2,11 +2,11 @@ using System.Threading.Tasks;
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
-using Avalonia.MusicStore.ViewModels;
+using AlbumVault.ViewModels;
 using Avalonia.ReactiveUI;
 using ReactiveUI;
 
-namespace Avalonia.MusicStore.Views
+namespace AlbumVault.Views
 {
 	public partial class MainWindow : ReactiveWindow<MainWindowViewModel>
 	{

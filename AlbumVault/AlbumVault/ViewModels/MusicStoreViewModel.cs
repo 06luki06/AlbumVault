@@ -7,10 +7,10 @@ using System.Reactive.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Avalonia.MusicStore.Models;
+using AlbumVault.Models;
 using ReactiveUI;
 
-namespace Avalonia.MusicStore.ViewModels
+namespace AlbumVault.ViewModels
 {
 	public class MusicStoreViewModel : ViewModelBase
 	{

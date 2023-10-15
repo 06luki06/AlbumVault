@@ -1,13 +1,14 @@
 ﻿using Avalonia.Media.Imaging;
-using Avalonia.MusicStore.Models;
+using AlbumVault.Models;
 using ReactiveUI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AlbumVault.Models;
 
-namespace Avalonia.MusicStore.ViewModels
+namespace AlbumVault.ViewModels
 {
 	public class AlbumViewModel : ViewModelBase
 	{

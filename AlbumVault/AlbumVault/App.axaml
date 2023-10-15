@@ -1,7 +1,7 @@
 <Application xmlns="https://github.com/avaloniaui"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="using:Avalonia.MusicStore"
-             x:Class="Avalonia.MusicStore.App">
+             xmlns:local="using:AlbumVault"
+             x:Class="AlbumVault.App">
 
     <Application.DataTemplates>
         <local:ViewLocator/>
@@ -9,6 +9,6 @@
 
     <Application.Styles>
         <FluentTheme Mode="Dark"/>
-		<StyleInclude Source="avares://Avalonia.MusicStore/Icons.axaml" />
+		<StyleInclude Source="avares://AlbumVault/Icons.axaml" />
     </Application.Styles>
 </Application>

@@ -1,9 +1,9 @@
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using Avalonia.MusicStore.ViewModels;
+using AlbumVault.ViewModels;
 using System;
 
-namespace Avalonia.MusicStore
+namespace AlbumVault
 {
 	public class ViewLocator : IDataTemplate
 	{
